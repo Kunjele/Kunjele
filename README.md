@@ -1,4 +1,4 @@
-name: Adilya Tusunakunova
+name: Adilya Tusunakunova.
 Location: Kyrgyzstan. Issyk-Kul
 Contact information: +996 707 22 42 01
 E-mail: adilyatusunakunova@gmail.com
